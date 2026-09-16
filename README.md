@@ -35,8 +35,4 @@ expense-tracker/
 - Integrating a third-party charting library
 - Structuring form input, validation, and dynamic list rendering
 
-## Live Demo
-_(add your GitHub Pages link here after deploying)_
 
-## License
-MIT
